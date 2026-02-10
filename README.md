@@ -40,7 +40,6 @@ src/
 
 ## Screenshots
 
-(Add screenshots of the application UI here)
 
 ## Installation & Setup
 

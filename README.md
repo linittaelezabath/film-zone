@@ -6,17 +6,17 @@ This project was built to practice and demonstrate core React concepts including
 
 ## Features
 
-🔍 Search movies by title
+-Search movies by title
 
-🎞️ Fetch real-time movie data using the OMDb API
+-Fetch real-time movie data using the OMDb API
 
-🖼️ Display movie poster, title, year, and type
+-Display movie poster, title, year, and type
 
-🧩 Reusable React components
+-Reusable React components
 
-📱 Responsive and modern UI design
+-Responsive and modern UI design
 
-⚡ Fast and lightweight application
+-Fast and lightweight application
 
 ## Tech Stack
 

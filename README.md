@@ -20,15 +20,15 @@ This project was built to practice and demonstrate core React concepts including
 
 ## Tech Stack
 
-Frontend: React.js
+*Frontend: React.js
 
-Language: JavaScript (ES6)
+*Language: JavaScript (ES6)
 
-Styling: CSS3
+*Styling: CSS3
 
-API: OMDb API
+*API: OMDb API
 
-Tools: Create React App, Fetch API
+*Tools: Create React App, Fetch API
 
 ## Project Structure
 src/
@@ -39,6 +39,7 @@ src/
 └── index.js
 
 ## Screenshots
+
 
 
 ## Installation & Setup
@@ -57,9 +58,9 @@ npm install
 4. Start the development server
 npm start
 
-
 5. The application will run at:
  http://localhost:3000
+
 
 ## API Used
 
@@ -68,51 +69,52 @@ Website: https://www.omdbapi.com/
 
 The OMDb API is used to retrieve movie data based on the search query entered by the user.
 
+
 ## How the Application Works
 
-On initial load, the app fetches movies related to "Batman".
+* On initial load, the app fetches movies related to "Batman".
 
-The user enters a movie name in the search bar.
+* The user enters a movie name in the search bar.
 
-A request is sent to the OMDb API with the search term.
+* A request is sent to the OMDb API with the search term.
 
-The response data is stored in the application state.
+* The response data is stored in the application state.
 
-Movie results are rendered dynamically as movie cards.
+* Movie results are rendered dynamically as movie cards.
 
 ## Learning Outcomes
 
-Building applications using React functional components
+* Building applications using React functional components
 
-Using useState and useEffect hooks
+* Using useState and useEffect hooks
 
-Fetching and handling external API data
+* Fetching and handling external API data
 
-Passing data between components using props
+* Passing data between components using props
 
-Conditional rendering in React
+* Conditional rendering in React
 
-Designing responsive layouts using CSS
+* Designing responsive layouts using CSS
 
 ## Notes
 
-This project was created for learning and practice purposes.
+* This project was created for learning and practice purposes.
 
-The concept and API usage are inspired by common React tutorial projects.
+* The concept and API usage are inspired by common React tutorial projects.
 
-Not intended for production deployment.
+* Not intended for production deployment.
 
 ## Future Enhancements
 
-Add loading and error handling states
+* Add loading and error handling states
 
-Display detailed movie information on card click
+* Display detailed movie information on card click
 
-Add pagination for search results
+* Add pagination for search results
 
-Improve UI animations and transitions
+* Improve UI animations and transitions
 
-Secure the API key using environment variables
+* Secure the API key using environment variables
 
 ## Author
 
@@ -121,6 +123,6 @@ GitHub: https://github.com/linittaelezabath
 
 ## Acknowledgements
 
-OMDb API for providing movie data
+- OMDb API for providing movie data
 
-React documentation and community tutorials
+- React documentation and community tutorials

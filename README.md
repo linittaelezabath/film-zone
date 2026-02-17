@@ -4,6 +4,7 @@ Film Zone is a React-based web application that allows users to search for movie
 
 This project was built to practice and demonstrate core React concepts including components, props, state management, hooks, and API integration.
 
+
 ## Features
 
 -Search movies by title
@@ -18,6 +19,7 @@ This project was built to practice and demonstrate core React concepts including
 
 -Fast and lightweight application
 
+
 ## Tech Stack
 
 *Frontend: React.js
@@ -30,6 +32,7 @@ This project was built to practice and demonstrate core React concepts including
 
 *Tools: Create React App, Fetch API
 
+
 ## Project Structure
 src/
 ├── App.js
@@ -39,7 +42,6 @@ src/
 └── index.js
 
 ## Screenshots
-
 
 
 ## Installation & Setup
@@ -82,6 +84,7 @@ The OMDb API is used to retrieve movie data based on the search query entered by
 
 * Movie results are rendered dynamically as movie cards.
 
+
 ## Learning Outcomes
 
 * Building applications using React functional components
@@ -96,6 +99,7 @@ The OMDb API is used to retrieve movie data based on the search query entered by
 
 * Designing responsive layouts using CSS
 
+
 ## Notes
 
 * This project was created for learning and practice purposes.
@@ -103,6 +107,7 @@ The OMDb API is used to retrieve movie data based on the search query entered by
 * The concept and API usage are inspired by common React tutorial projects.
 
 * Not intended for production deployment.
+
 
 ## Future Enhancements
 
@@ -115,6 +120,7 @@ The OMDb API is used to retrieve movie data based on the search query entered by
 * Improve UI animations and transitions
 
 * Secure the API key using environment variables
+
 
 ## Author
 
